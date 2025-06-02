@@ -1,5 +1,11 @@
 # Recipe Star - React Recipe App
 
+## Visit Here: 
+
+-> https://recipe-star.netlify.app/
+
+---
+
 ## Overview
 
 Recipe Star is a React-based web application that allows users to search for recipes and view detailed instructions, including a list of ingredients and preparation steps for a selected dish.
