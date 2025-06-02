@@ -6,6 +6,12 @@ Recipe Star is a React-based web application that allows users to search for rec
 
 ---
 
+## Visit Here
+
+https://recipe-star.netlify.app/
+
+---
+
 ## Technologies Used
 
 * **React** – Frontend framework for building the user interface
@@ -26,9 +32,11 @@ Recipe Star is a React-based web application that allows users to search for rec
 
 ### Search Results
 
-![Search Results](https://github.com/Richaaanand/Recipe-Star/assets/167211450/f008cf4c-9b8f-4256-bd60-a7567952f0ed)
+![image](https://github.com/user-attachments/assets/70050b4b-7d4f-4e46-97a9-c9844758f21b)
+
 
 ### Recipe Details
 
-![Recipe Details](https://github.com/Richaaanand/Recipe-Star/assets/167211450/af89ee2c-ce24-4472-9aa0-7c6e55e63ad0)
+![image](https://github.com/user-attachments/assets/316a761c-ca37-4aa5-9262-157f64d5cee6)
+
 
